@@ -4,7 +4,7 @@ export default function Campaigns() {
   return (
      <div className=" m-auto w-[73rem] h-[16rem]"> <h1 className="w-full">Kampanyalar</h1>
       <div className="w-full h-full mt-5 flex"> 
-      <img src="https://cdn.getir.com/getirweb-images/common/illustration/doodle.png" className=" absolute bg-primary h-[15.5rem] rounded-xl " alt=""  z-10 /> 
+      <img src="https://cdn.getir.com/getirweb-images/common/illustration/doodle.png" className=" absolute bg-primary h-[15.5rem] rounded-lg " alt=""  z-10 /> 
 
         <div className=" relative  w-[36.5rem] h-[15.5rem] rounded-xl  z-30  left-0  "> 
 

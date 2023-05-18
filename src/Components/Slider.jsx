@@ -52,7 +52,7 @@ export default function Slide() {
               </div>
               <div className="container w-100 text-white absolute top-0 h-full z-20 w-1/2 text-left right-0">
                     <div className="border-2  rounded-xl bg-white  mx-auto mt-[10rem] w-[25rem] h-[13rem] ">
-                      <h4 className="text-primary font[600] text-lg font-semi-bold w-full text-center w-full my-5" >Giriş yap veya kayıt ol</h4>
+                      <h4 className="text-primary font[600] text-lg font-semi-bold  text-center w-full my-5" >Giriş yap veya kayıt ol</h4>
                       <div className="flex">
                <ReactFlagsSelect
            countries={Object.keys(phones)}

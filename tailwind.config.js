@@ -19,6 +19,10 @@ module.exports = {
         'secondry': '#7849f7', 
         'brand-yellow': '#ffd300',
      },
+     dropShadow: {
+      '2xl': '0 25px 25px black',
+    }
+
     },
   },
   plugins: [],

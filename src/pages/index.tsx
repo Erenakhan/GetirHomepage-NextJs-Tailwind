@@ -1,9 +1,8 @@
-
-
 import Nav from '../Components/Nav'
 import Slide from '../Components/Slider'
 import Categories from '../Components/Categories'
 import Campaigns from '../Components/Campaigns'
+import Banner from '../Components/Banner'
 import Footer from '../Components/Footer'
 
 export default function Home() {
@@ -13,7 +12,8 @@ export default function Home() {
     <Slide />
     <Categories />
     <Campaigns />
-    <Footer />
+    <Banner />
+   <Footer />
    </>
   )
 };
