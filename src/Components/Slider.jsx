@@ -62,11 +62,12 @@ export default function Slide() {
 />
                   <label className="w-full flex  relative mx-1 h-11  ">
                   <input required className="text-black w-full h-full border-2 focus:outline-none text-sm  focus:border-primary border-gray-300 rounded-sm peer pt-2 "   />
-                  <span className="text-gray-400 absolute text-sm top-3 ml-1 peer-focus:top-0 peer-focus:text-xs peer-focus:text-primary peer-valid:top-0 peer-valid:text-xs peer-valid:text-primary transition-all ">Telefon Numarası</span>
+                  <span className="text-gray-400 absolute text-sm top-3 ml-1 peer-focus:top-0 peer-focus:text-xs peer-focus:text-primary peer-valid:top-0 peer-valid:text-xs peer-valid:text-primary transition-all 
+                 pl-2	">Telefon Numarası</span>
                   </label>
                     </div>
                     <div className=" flex justify-center mt-2  h-12 w-full">
-                    <button className="  text-primary bg-brand-yellow focus:text-brand-yellow focus:bg-primary  hover:text-brand-yellow hover:bg-primary w-[23rem] h-full   rounded-lg transition-all">
+                    <button className="  text-primary bg-brand-yellow focus:text-brand-yellow focus:bg-primary  hover:text-brand-yellow hover:bg-primary w-[23rem] h-full   rounded-lg transition-all ">
                       Telefon Numarası İle Devam Et
                     </button>
                     </div>
